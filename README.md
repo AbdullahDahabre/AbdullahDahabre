@@ -1,14 +1,10 @@
 <!-- Animated GIF Banner -->
 
 <p align="center">
-  <img src="./AbdullahDahabreGif.gif" alt="Animated Profile" width="220" />
+  <img src="./AbdullahDahabreGif.gif" alt="Animated Profile" width="420" />
 </p>
 
 # Abdullah Dahabre
-
-<p align="center">
-  <img src="./logo.png" alt="Logo" width="160" />
-</p>
 
 ---
 
@@ -68,6 +64,15 @@ Artificial Intelligence Engineer specializing in **AI agents, LLM-based systems,
 ### 🔗 Version Control
 
 * Git · GitHub
+
+---
+
+### 📜 Certifications
+
+* **Agentic AI Engineering (Udemy)** — [https://www.udemy.com/certificate/UC-6fa7d62e-8106-488e-85eb-6f22afb6e2f5](https://www.udemy.com/certificate/UC-6fa7d62e-8106-488e-85eb-6f22afb6e2f5)
+* **Machine Learning A-Z (Udemy)** — [https://www.udemy.com/certificate/UC-743671f3-6679-4954-9d2c-a616d1cb9f4a](https://www.udemy.com/certificate/UC-743671f3-6679-4954-9d2c-a616d1cb9f4a)
+* **Deep Learning Specialization (Coursera)** — [https://www.coursera.org/account/accomplishments/specialization/Y7LS66FTK3TK](https://www.coursera.org/account/accomplishments/specialization/Y7LS66FTK3TK)
+* **IBM Data Science Specialization (Coursera)** — [https://www.coursera.org/account/accomplishments/specialization/HZDQ94KAQ2U2](https://www.coursera.org/account/accomplishments/specialization/HZDQ94KAQ2U2)
 
 ---
 
