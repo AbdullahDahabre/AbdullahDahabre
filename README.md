@@ -18,9 +18,11 @@ Artificial Intelligence Engineer specializing in **AI agents, LLM-based systems,
 [https://aibrains.com](https://aibrains.com)
 
 ├─ **AI Developer**
+
 │  *11/2025 – Present*
-│
+
 ├─ **AI Developer Intern**
+
 │  *07/2025 – 10/2025*
 
 ### Education
@@ -34,20 +36,15 @@ Artificial Intelligence Engineer specializing in **AI agents, LLM-based systems,
 
 ### 📊 Core
 
-* Data Science · Machine Learning · Deep Learning
-* Computer Vision · Medical Imaging · NLP
+* Data Science · Machine Learning · Deep Learning · NLP · Medical Imaging · Computer Vision
 
 ### 🤖 Generative AI & Agents
 
-* LLMs · Agentic AI · AI Automation
-* RAG · Prompt Engineering
-* MCP · A2A Protocol · Generative AI Tools
+* Agentic AI · AI Automation · LLMs · RAG · Prompt Engineering · MCP · A2A · Generative AI Tools
 
 ### 💻 Development
 
-* Python · FastAPI · React.js
-* Full-Stack Development
-* End-to-End Delivery · E2E Testing
+* Python · FastAPI · React.js · Full-Stack Development · End-to-End Delivery · E2E Testing
 
 ### 🗄️ Data & Engineering
 
