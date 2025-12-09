@@ -1,8 +1,4 @@
-<!-- Animated GIF Banner -->
-
-<p align="center">
-  <img src="./AbdullahDahabreGif.gif" alt="Animated Profile" width="420" />
-</p>
+![banner](./AbdullahDahabreGif.gif)
 
 # Abdullah Dahabre
 
