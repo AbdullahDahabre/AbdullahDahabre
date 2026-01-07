@@ -71,7 +71,7 @@ Artificial Intelligence Engineer specializing in **AI agents, LLM-based systems,
 
 ## 🌐 Socials
 
-* **LinkedIn:** [https://linkedin.com/in/abdullah-dahabre](https://linkedin.com/in/abdullah-dahabre)
+* **LinkedIn:** [https://linkedin.com/in/abdullahdahabre](https://linkedin.com/in/abdullahdahabre)
 * **GitHub:** [https://github.com/AbdullahDahabre](https://github.com/AbdullahDahabre)
 * **Kaggle:** [https://kaggle.com/abdullahdahabre23](https://kaggle.com/abdullahdahabre23)
 * **Email:** [abdullah.dahabre@gmail.com](mailto:abdullah.dahabre@gmail.com)
