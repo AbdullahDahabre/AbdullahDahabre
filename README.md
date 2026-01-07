@@ -1,4 +1,4 @@
-![banner](./AbdullahDahabreGif.gif)
+![banner](./AbdullahDahabre.gif)
 
 # Abdullah Dahabre
 
@@ -75,4 +75,4 @@ Artificial Intelligence Engineer specializing in **AI agents, LLM-based systems,
 * **GitHub:** [https://github.com/AbdullahDahabre](https://github.com/AbdullahDahabre)
 * **Kaggle:** [https://kaggle.com/abdullahdahabre23](https://kaggle.com/abdullahdahabre23)
 * **Email:** [abdullah.dahabre@gmail.com](mailto:abdullah.dahabre@gmail.com)
-* **Portfolio:** *Soon*
+* **Portfolio:** [abdullahdahabre.com](mailto:abdullahdahabre.com)
