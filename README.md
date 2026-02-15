@@ -48,7 +48,7 @@ Artificial Intelligence Engineer specializing in **AI agents, LLM-based systems,
 
 ### 🗄️ Data & Engineering
 
-* Databases · SQL · Data Engineering
+* PostgreSQL · SQL · Data Engineering
 
 ### ⚙️ MLOps & DevOps
 
